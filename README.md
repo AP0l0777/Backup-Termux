@@ -14,7 +14,7 @@ termux-setup-storage
 <tbody>
 <h1> 2. Comando Unico</h1>
 <tr>
-<td>yes | apt upgrade; yes | apt update; yes | apt install git; git clone https;//github.com/AP0l0777/Backup-Termux; cd Backup-Termux; chmod a+x Termux-Backup.sh; ./Termux-Backup.sh</td>
+<td>yes | apt upgrade; yes | apt update; yes | apt install git; git clone https://github.com/AP0l0777/Backup-Termux/; cd Backup-Termux; chmod a+x Termux-Backup.sh; ./Termux-Backup.sh</td>
 </tr>
 </tbody>
 </tab
